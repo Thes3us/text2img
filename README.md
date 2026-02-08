@@ -29,6 +29,8 @@ Follow these steps to get the project running locally:
    ```sh
    python decoder.py
    ```
+## Note
+decoder.py was AI generated
 ## License
 
 This project is licensed under the MIT License.
